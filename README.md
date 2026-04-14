@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**kaiokasa/kaiokasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML engineer & data scientist — turning messy data into useful things.  
+Based in Normandy 🇫🇷 · Python-first · Open to collaboration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 📌 Featured projects
+
+| Project | Description |
+|---|---|
+| [churn-predictor](https://github.com/...) | XGBoost pipeline + SHAP explainability for customer churn |
+| [rag-assistant](https://github.com/...) | RAG chatbot over custom docs with FAISS + LangChain |
+| [time-series-toolkit](https://github.com/...) | ARIMA / Prophet / LSTM wrappers with standard metrics |
+
+---
+
+📬 [email@example.com](mailto:) · [LinkedIn](https://linkedin.com/in/...) · [HuggingFace](https://huggingface.co/...)
