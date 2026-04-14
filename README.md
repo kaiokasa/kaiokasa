@@ -1,9 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Bouchentouf Omar
 
-ML engineer & data scientist — turning messy data into useful things.  
-Based in Normandy 🇫🇷 · Python-first · Open to collaboration
-
----
+ML engineer & data scientist | turning messy data into useful things.  
+Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 ## 🛠 Stack
 
