@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bouchentouf Omar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Flair&size=22&pause=1000&color=3B82F6&width=500&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer;MSc+Data+%26+AI+%40+ECE+Paris;Per+aspera+ad+astra+%E2%9C%A8)](https://git.io/typing-svg)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Bouchentouf%20Omar&fontSize=50&fontColor=ffffff)
 Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 ---
