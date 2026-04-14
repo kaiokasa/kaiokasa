@@ -31,3 +31,4 @@ Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 ---
 
 📬 [email@example.com](mailto:) · [LinkedIn](https://linkedin.com/in/...) · [HuggingFace](https://huggingface.co/...)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiokasa)](https://github.com/kaiokasa/github-readme-stats)
