@@ -43,5 +43,5 @@ Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 <div align="center">
   <img src="https://media3.giphy.com/media/10bKPDUM5H7m7u/giphy.gif" width="280"/>
-  <p><i>me at 2am trying to fix my model</i></p>
+  <p><i>litterally me </i></p>
 </div>
