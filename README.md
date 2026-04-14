@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Bouchentouf Omar
-ML engineer & data scientist | turning messy data into useful things.  
+
+Data Scientist & ML Engineer | turning messy data into useful things.  
 Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
+---
+
 ## 🛠 Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A2A?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat&logo=lightgbm&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -16,10 +23,17 @@ Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 | Project | Description |
 |---|---|
-| [churn-predictor](https://github.com/...) | XGBoost pipeline + SHAP explainability for customer churn |
-| [rag-assistant](https://github.com/...) | RAG chatbot over custom docs with FAISS + LangChain |
-| [time-series-toolkit](https://github.com/...) | ARIMA / Prophet / LSTM wrappers with standard metrics |
+| [walmart-sales-forecasting](https://github.com/kaiokasa/walmart-sales-forecasting) | XGBoost forecasting · R²=0.95 · Streamlit app with real-time predictions |
+| [fraud-detection](https://github.com/kaiokasa/fraud-detection) | 284K transactions · XGBoost F1=0.872 · ROC-AUC=0.983 |
+| [olist-ecommerce-analytics](https://github.com/kaiokasa/olist-ecommerce-analytics) | MySQL · RFM segmentation · churn prediction · revenue KPIs |
 
 ---
 
-📬 [email@example.com](mailto:omar@example.com) · [LinkedIn](https://linkedin.com/in/...) · [HuggingFace](https://huggingface.co/...)
+## 🎓 Education
+
+- **MSc Data & Artificial Intelligence** — École Centrale d'Électronique *(2025 – present)*
+- **BSc Computer Science** — Al Akhawayn University *(2020 – 2025)*
+
+---
+
+📬 [Bouchentouf.omar17@gmail.com](mailto:Bouchentouf.omar17@gmail.com) · [LinkedIn](https://linkedin.com/in/obouchentouf) · [GitHub](https://github.com/kaiokasa)
