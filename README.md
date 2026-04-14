@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bouchentouf Omar
 
 Data Scientist & ML Engineer | turning messy data into useful things.  
-Based in Cergy 🇫🇷 · Python-first · Open to collaboration
+Based in Cergy 🇫🇷 · Python-first 
 
 ---
 
@@ -23,9 +23,9 @@ Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 | Project | Description |
 |---|---|
-| [walmart-sales-forecasting](https://github.com/kaiokasa/walmart-sales-forecasting) | XGBoost forecasting · R²=0.95 · Streamlit app with real-time predictions |
-| [fraud-detection](https://github.com/kaiokasa/fraud-detection) | 284K transactions · XGBoost F1=0.872 · ROC-AUC=0.983 |
-| [olist-ecommerce-analytics](https://github.com/kaiokasa/olist-ecommerce-analytics) | MySQL · RFM segmentation · churn prediction · revenue KPIs |
+| [walmart-sales-forecasting](https://github.com/kaiokasa/Walmart_Retail_Sales_Forecast) | XGBoost forecasting · R²=0.95 · Streamlit app with real-time predictions |
+| [fraud-detection](https://github.com/kaiokasa/fraud_detection) | 284K transactions · XGBoost F1=0.872 · ROC-AUC=0.983 |
+| [olist-ecommerce-analytics](https://github.com/kaiokasa/OLIST_E-Commerce_EDA-ML) | MySQL · RFM segmentation · churn prediction · revenue KPIs |
 
 ---
 
