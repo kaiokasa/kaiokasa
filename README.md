@@ -8,7 +8,11 @@
 Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 ---
-
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <p><i>Me debugging at 2am</i></p>
+</div>
 ## 🛠 Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
