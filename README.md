@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Bouchentouf Omar
 
-Data Scientist & ML Engineer | turning messy data into useful things.  
-Based in Cergy 🇫🇷 · Python-first 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flair&size=22&pause=1000&color=3B82F6&width=500&lines=Data+Scientist+%7C+ML+Engineer;284K+transactions+%7C+XGBoost+F1%3D0.872;MSc+Data+%26+AI+%40+ECE+Paris;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 ---
 
@@ -11,7 +12,7 @@ Based in Cergy 🇫🇷 · Python-first
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A2A?style=flat&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat&logo=lightgbm&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -23,9 +24,9 @@ Based in Cergy 🇫🇷 · Python-first
 
 | Project | Description |
 |---|---|
-| [walmart-sales-forecasting](https://github.com/kaiokasa/Walmart_Retail_Sales_Forecast) | XGBoost forecasting · R²=0.95 · Streamlit app with real-time predictions |
-| [fraud-detection](https://github.com/kaiokasa/fraud_detection) | 284K transactions · XGBoost F1=0.872 · ROC-AUC=0.983 |
-| [olist-ecommerce-analytics](https://github.com/kaiokasa/OLIST_E-Commerce_EDA-ML) | MySQL · RFM segmentation · churn prediction · revenue KPIs |
+| [fraud-detection](https://github.com/kaiokasa/fraud-detection) | 284K transactions · XGBoost F1=0.872 · ROC-AUC=0.983 · Streamlit dashboard |
+| [walmart-sales-forecasting](https://github.com/kaiokasa/walmart-sales-forecasting) | XGBoost forecasting · R²=0.95 · Streamlit app with real-time predictions |
+| [olist-ecommerce-analytics](https://github.com/kaiokasa/olist-ecommerce-analytics) | MySQL · RFM segmentation · churn prediction · revenue KPIs |
 
 ---
 
