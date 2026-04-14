@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bouchentouf Omar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flair&size=22&pause=1000&color=3B82F6&width=500&lines=Data+Scientist+%7C+Data Analyst+%7C+ML+Engineer;MSc+Data+%26+AI+%40+ECE+Paris;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flair&size=22&pause=1000&color=3B82F6&width=500&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer;MSc+Data+%26+AI+%40+ECE+Paris;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
