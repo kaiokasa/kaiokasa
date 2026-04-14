@@ -16,7 +16,7 @@ Based in Cergy 🇫🇷 · Python-first · Open to collaboration
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiokasa&show_icons=true&theme=default&hide_border=true)](https://github.com/kaiokasa)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiokasa&show_icons=true&hide_border=true)
 
 ---
 
