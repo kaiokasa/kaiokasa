@@ -10,29 +10,53 @@ Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
 
 ## 🛠 Stack
 
-**AI & ML**
+**Generative AI & NLP**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-6B7280?style=flat&logoColor=white)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-6B7280?style=flat&logoColor=white)
+
+`RAG` · `embeddings` · `vector databases` · `prompt engineering` · `structured outputs` · `NER`
+
+**Machine learning & deep learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A2A?style=flat&logo=xgboost&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black)
+
+**Computer vision & OCR**
+
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=flat&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet-6B7280?style=flat&logoColor=white)
+![R-CNN](https://img.shields.io/badge/R--CNN-6B7280?style=flat&logoColor=white)
 
-**Data & delivery**
+**Data**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Delivery**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -47,15 +71,35 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 
 ## 📌 Featured projects
 
+**🤖 Generative AI & NLP**
+
 | Project | Description |
 |---|---|
-| [email_classifier](https://github.com/kaiokasa/email_classifier) | LLM urgency triage (macro-F1=0.91 on 103 emails) · attachment classifier (macro-F1=0.95) · RAG with ChromaDB (30/30 answers, 3/3 refusals) · FastAPI + React |
+| [email_classifier](https://github.com/kaiokasa/email_classifier) | LLM urgency triage (Gemini, structured outputs · macro-F1=0.91 on 103 emails) · attachment classifier (macro-F1=0.95 on 379 test docs) · RAG with ChromaDB (30/30 answers, 3/3 refusals) · FastAPI + React |
 | [financial_nlp_benchmark](https://github.com/kaiokasa/financial_nlp_benchmark) | TF-IDF, Word2Vec + LSTM, FinBERT and ensemble compared on 5 financial document classes |
-| [fraud_detection](https://github.com/kaiokasa/fraud_detection) | 284K transactions · XGBoost F1=0.87 · imbalance handling · Streamlit dashboard |
-| [Walmart_Retail_Sales_Forecast](https://github.com/kaiokasa/Walmart_Retail_Sales_Forecast) | 45 stores, 421K rows · temporal validation · XGBoost R²=0.95 · Streamlit app |
+| [jokes_generator](https://github.com/kaiokasa/jokes_generator) | Generative AI mini-project (MSc AI team project) · app + evaluation notebook |
+
+**👁 Computer vision**
+
+| Project | Description |
+|---|---|
 | [Airport-Information-Integrity-Verification](https://github.com/kaiokasa/Airport-Information-Integrity-Verification-Using-Computer-Vision) | Computer vision for verifying passenger identity documents · Flask app |
 | [Realtime-Inventory-Management-ML](https://github.com/kaiokasa/Realtime-Inventory-Management-ML) | YOLO object detection trained for inventory tracking on video |
+
+**📈 Machine learning & data**
+
+| Project | Description |
+|---|---|
+| [fraud_detection](https://github.com/kaiokasa/fraud_detection) | 284K transactions (0.17% fraud) · SMOTE · 5 models compared · XGBoost F1=0.87 · Streamlit dashboard |
+| [Walmart_Retail_Sales_Forecast](https://github.com/kaiokasa/Walmart_Retail_Sales_Forecast) | 45 stores, 421K rows · 7 models with temporal validation · XGBoost R²=0.95 · Streamlit app |
 | [OLIST_E-Commerce_EDA-ML](https://github.com/kaiokasa/OLIST_E-Commerce_EDA-ML) | MySQL (9 tables, 99K orders) · cohorts · RFM segmentation · delivery & review analysis |
+
+**⚙️ DevOps**
+
+| Project | Description |
+|---|---|
+| [devops-sum-pipeline](https://github.com/kaiokasa/devops-sum-pipeline) | Jenkins CI pipeline with Docker |
+| [FlaskApp_Done](https://github.com/kaiokasa/FlaskApp_Done) | Flask app with tests, Docker image and GitHub Actions workflow |
 
 ---
 
@@ -63,6 +107,8 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 
 - **Master in Artificial Intelligence** — École Centrale d'Électronique (ECE Paris) *(2025 – 2027)*
 - **BSc Computer Science** — Al Akhawayn University *(2020 – 2025)*
+
+🌍 French · English · Arabic
 
 ---
 
