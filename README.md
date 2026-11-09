@@ -15,6 +15,7 @@ Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
@@ -32,6 +33,7 @@ Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A2A?style=flat&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-6B7280?style=flat&logoColor=white)
 
 **Computer vision & OCR**
 
@@ -56,6 +58,8 @@ Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -90,8 +94,8 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 
 | Project | Description |
 |---|---|
+| [Walmart_Weekly_Sales_Forecast](https://github.com/kaiokasa/Walmart_Weekly_Sales_Forecast) | 3,169 store/dept series, up to 39 weeks ahead · LightGBM + seasonal naive (SVD) ensemble, WMAE=1,818 (−12% vs LightGBM) · Kaggle private WMAE 2,885 (≈ top 11%) · Streamlit app with local-LLM RAG explanations · 38 tests, CI, Docker · 🚧 agentic SQL assistant in progress |
 | [fraud_detection](https://github.com/kaiokasa/fraud_detection) | 284K transactions (0.17% fraud) · SMOTE · 5 models compared · XGBoost F1=0.87 · Streamlit dashboard |
-| [Walmart_Retail_Sales_Forecast](https://github.com/kaiokasa/Walmart_Retail_Sales_Forecast) | 45 stores, 421K rows · 7 models with temporal validation · XGBoost R²=0.95 · Streamlit app |
 | [OLIST_E-Commerce_EDA-ML](https://github.com/kaiokasa/OLIST_E-Commerce_EDA-ML) | MySQL (9 tables, 99K orders) · cohorts · RFM segmentation · delivery & review analysis |
 
 **⚙️ DevOps**
