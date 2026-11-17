@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Flair&size=22&pause=1000&color=3B82F6&width=500&lines=AI+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Master+in+Artificial+Intelligence+%40+ECE+Paris;Per+aspera+ad+astra+%E2%9C%A8)](https://git.io/typing-svg)
 
-Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
+Based in Cergy 🇫🇷 · Python-first · LLMs, RAG, multi-agent systems & computer vision
 
 🔎 Looking for a **4–6 month end-of-studies internship in AI** from **April 2027** (Paris / Île-de-France)
 
@@ -24,6 +24,16 @@ Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
 
 `RAG` · `embeddings` · `vector databases` · `prompt engineering` · `structured outputs` · `NER`
 
+**AI agents & observability**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![pm4py](https://img.shields.io/badge/pm4py-6B7280?style=flat&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![sqlglot](https://img.shields.io/badge/sqlglot-6B7280?style=flat&logoColor=white)
+
+`multi-agent systems` · `tool calling` · `agent evaluation` · `process mining` · `sandboxed tools` · `tracing & monitoring`
+
 **Machine learning & deep learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,6 +45,8 @@ Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black)
 ![SHAP](https://img.shields.io/badge/SHAP-6B7280?style=flat&logoColor=white)
 
+`deep learning` · `imbalanced data (SMOTE)` · `time-series forecasting` · `cross-validation`
+
 **Computer vision & OCR**
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
@@ -43,9 +55,13 @@ Based in Cergy 🇫🇷 · Python-first · LLMs, RAG & computer vision
 ![ResNet](https://img.shields.io/badge/ResNet-6B7280?style=flat&logoColor=white)
 ![R-CNN](https://img.shields.io/badge/R--CNN-6B7280?style=flat&logoColor=white)
 
+`object detection` · `data augmentation` · `document AI`
+
 **Data**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
@@ -117,10 +133,3 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 ---
 
 📬 [Bouchentouf.omar17@gmail.com](mailto:Bouchentouf.omar17@gmail.com) · [LinkedIn](https://linkedin.com/in/obouchentouf) · [GitHub](https://github.com/kaiokasa)
-
----
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/10bKPDUM5H7m7u/giphy.gif" width="280"/>
-  <p><i>litterally me </i></p>
-</div>
