@@ -103,7 +103,6 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 |---|---|
 | [email_classifier](https://github.com/kaiokasa/email_classifier) | LLM urgency triage (Gemini, structured outputs · macro-F1=0.91 on 103 emails) · attachment classifier (macro-F1=0.95 on 379 test docs) · RAG with ChromaDB (30/30 answers, 3/3 refusals) · FastAPI + React |
 | [financial_nlp_benchmark](https://github.com/kaiokasa/financial_nlp_benchmark) | TF-IDF, Word2Vec + LSTM, FinBERT and ensemble compared on 5 financial document classes |
-| [jokes_generator](https://github.com/kaiokasa/jokes_generator) | Generative AI mini-project (MSc AI team project) · app + evaluation notebook |
 
 **👁 Computer vision**
 
