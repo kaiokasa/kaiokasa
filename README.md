@@ -91,6 +91,12 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 
 ## 📌 Featured projects
 
+**🕸 AI agents & observability**
+
+| Project | Description |
+|---|---|
+| [relais](https://github.com/kaiokasa/relais) | Multi-agent data analysis assistant (LangGraph · Gemini): a planner dispatches SQL, statistics and visualisation agents, a reviewer checks every figure before answering · open data from ARCEP and INSEE in DuckDB · tools locked by code (SQL validated with sqlglot, read-only DB, sandboxed Python), sources derived from the tables actually read · **20/24 on a held-out test set**, $0.005–0.015 and 7.7 s (median) per question · every agent action traced with OpenTelemetry, deviations detected with process mining (pm4py), live failure-risk gauge (AUC 0.76) in a Streamlit supervision console · pytest, CI, Docker |
+
 **🤖 Generative AI & NLP**
 
 | Project | Description |
@@ -113,13 +119,6 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 | [Walmart_Weekly_Sales_Forecast](https://github.com/kaiokasa/Walmart_Weekly_Sales_Forecast) | 3,169 store/dept series, up to 39 weeks ahead · LightGBM + seasonal naive (SVD) ensemble, WMAE=1,818 (−12% vs LightGBM) · Kaggle private WMAE 2,885 (≈ top 11%) · Streamlit app with local-LLM RAG explanations · 38 tests, CI, Docker · 🚧 agentic SQL assistant in progress |
 | [fraud_detection](https://github.com/kaiokasa/fraud_detection) | 284K transactions (0.17% fraud) · SMOTE · 5 models compared · XGBoost F1=0.87 · Streamlit dashboard |
 | [OLIST_E-Commerce_EDA-ML](https://github.com/kaiokasa/OLIST_E-Commerce_EDA-ML) | MySQL (9 tables, 99K orders) · cohorts · RFM segmentation · delivery & review analysis |
-
-**⚙️ DevOps**
-
-| Project | Description |
-|---|---|
-| [devops-sum-pipeline](https://github.com/kaiokasa/devops-sum-pipeline) | Jenkins CI pipeline with Docker |
-| [FlaskApp_Done](https://github.com/kaiokasa/FlaskApp_Done) | Flask app with tests, Docker image and GitHub Actions workflow |
 
 ---
 
