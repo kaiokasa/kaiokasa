@@ -115,7 +115,7 @@ Built a pipeline that automatically processes applicants' ID cards, CVs and dipl
 
 | Project | Description |
 |---|---|
-| [Walmart_Weekly_Sales_Forecast](https://github.com/kaiokasa/Walmart_Weekly_Sales_Forecast) | 3,169 store/dept series, up to 39 weeks ahead · LightGBM + seasonal naive (SVD) ensemble, WMAE=1,818 (−12% vs LightGBM) · Kaggle private WMAE 2,885 (≈ top 11%) · Streamlit app with local-LLM RAG explanations · 38 tests, CI, Docker · 🚧 agentic SQL assistant in progress |
+| [shelfcast](https://github.com/kaiokasa/shelfcast) | Explainable Walmart sales forecasting: 3,169 store/dept series up to 39 weeks ahead · LightGBM + seasonal naive (SVD) ensemble, WMAE=1,818 (−12% vs LightGBM) · Kaggle private WMAE 2,885 (≈ top 11%) · **every prediction explained by an LLM (RAG, local Qwen via Ollama or Gemini), figures checked by code: 200/200 explanations with no invented number** · **LangGraph SQL agent** (tool calling, read-only DuckDB, self-correcting queries, Plotly charts, review step): 9–10/10 on a reference benchmark, ≈ $0.0045 per question · Streamlit app, 74 tests, CI, Docker |
 | [fraud_detection](https://github.com/kaiokasa/fraud_detection) | 284K transactions (0.17% fraud) · SMOTE · 5 models compared · XGBoost F1=0.87 · Streamlit dashboard |
 | [OLIST_E-Commerce_EDA-ML](https://github.com/kaiokasa/OLIST_E-Commerce_EDA-ML) | MySQL (9 tables, 99K orders) · cohorts · RFM segmentation · delivery & review analysis |
 
